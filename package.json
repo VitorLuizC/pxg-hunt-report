@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/VitorLuizC/pxg-hunt-report/issues"
   },
-  "homepage": "https://github.com/VitorLuizC/pxg-hunt-report#readme"
+  "homepage": "https://github.com/VitorLuizC/pxg-hunt-report#readme",
+  "dependencies": {
+    "moment": "^2.17.0"
+  }
 }
